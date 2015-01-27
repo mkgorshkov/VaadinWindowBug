@@ -1,0 +1,2 @@
+# Module com.savoirfairelinux.bugs.MyAppWidgetset
+# RPC service class, partial path of RPC policy file
